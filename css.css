@@ -1,6 +1,6 @@
 h1 {
   font-size: 200%;
-  color: #FF3B3B;
+  color: orangered;
 }
 h2 {
   color: #E54141;
@@ -9,6 +9,14 @@ h2 {
 img {
   width: 100%;
 }
-p {
+p.body {
+  line-height: 1000%;
+  letter-spacing: 150%;
+  width: 50vw;
   word-spacing: 130%;
+  color: pink;
+}
+
+body {
+  background-color: brown;
 }
